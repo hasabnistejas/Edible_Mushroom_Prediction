@@ -9,3 +9,7 @@
   <li> scikit-learn==0.23.2 </li>
   <li> seaborn==0.11.0 </li>
 </ul>
+
+<h2> <strong> Tasks </strong></h2>
+<h4> Part 1 <h4>
+  <p> Quick Data Check </p>
